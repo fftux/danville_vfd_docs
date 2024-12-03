@@ -9,7 +9,7 @@ Revision: 7.0
 * [Article II. Officers](2_officers.md)
 * [Article III. Membership](3_membership.md)
 * [Article IV. Answering Alarms & Attendance](4_attendance.md)
-* Article V. Disciplinary Action
+* [Article V. Disciplinary Action](5_disciplinary.md)
 * Article VI. Departmental Operations
 * Article VII. General Orders and Standard Operating Guidelines
 * Article VIII. Station Order
