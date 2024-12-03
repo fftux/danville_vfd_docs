@@ -3,8 +3,8 @@
 Effective Date: March, 19, 2024
 Revision: 7.0
 ## Table of Contents
-[Article I. Objective of the Department](bylaws/1_objective.md)
-[Article II. Officers](bylaws/2_officers.md)
+1. [Article I. Objective of the Department](bylaws/1_objective.md)
+1. [Article II. Officers](bylaws/2_officers.md)
 Article III. Membership
 Article IV. Answering Alarms & Attendance
 Article V. Disciplinary Action
