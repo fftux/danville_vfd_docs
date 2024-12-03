@@ -1,2 +1,2 @@
-Article I. Objective of the Department
+# Article I. Objective of the Department
 The objective of the Danville Volunteer Fire Department is to provide fire protection, to aid in civil defense emergencies, to aid all concerned in times of distress and emergencies, when and where the services are requested, without recognized boundaries or time, to help eliminate fire hazards, to foster public education of fire prevention and public safety.
