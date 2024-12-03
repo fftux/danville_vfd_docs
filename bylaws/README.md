@@ -7,7 +7,7 @@ Revision: 7.0
 ## Table of Contents
 * [Article I. Objective of the Department](bylaws/1_objective.md)
 * [Article II. Officers](bylaws/2_officers.md)
-* Article III. Membership
+* [Article III. Membership](bylaws/3_membership.md)
 * Article IV. Answering Alarms & Attendance
 * Article V. Disciplinary Action
 * Article VI. Departmental Operations
